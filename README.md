@@ -38,5 +38,4 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 ## Purpose
 
-Adding something that possibly could cause a problem
-in near future.
+The purpose of this file is to provide examples on how to use Git and GitHub together.
