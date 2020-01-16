@@ -36,13 +36,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
-
-
-Edit on example branch. And changing it again
-Something else to replace the old text.
-
 ## Purpose
 
 Adding something that possibly could cause a problem
 in near future.
-
