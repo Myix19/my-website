@@ -39,5 +39,5 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 
 Edit on example branch.
-Tweak. More tweaks to readme.
+Something else to replace the old text.
 
