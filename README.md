@@ -38,7 +38,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 
 
-Edit on example branch. Adding problematic change.
+Edit on example branch. And changing it again
 Something else to replace the old text.
 
 ## Purpose
